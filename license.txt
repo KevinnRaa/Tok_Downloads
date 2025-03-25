@@ -1,0 +1,18 @@
+LICENSE AGREEMENT
+--------------------------------------
+Created by Khemra 2024
+--------------------------------------
+This software is protected under international intellectual property laws. Unauthorized modification, distribution, or commercial use is strictly prohibited.
+
+Users may:
+✔ Use this software for personal purposes.
+✔ Modify and improve the software for personal use.
+
+Users may NOT:
+❌ Redistribute or sell this software without written permission.
+❌ Remove or modify the credits to Khemra.
+❌ Use this software for illegal activities.
+
+For legal inquiries or commercial licensing, contact:
+📩 Telegram: https://t.me/hackisreal007
+© 2024 Khemra - All Rights Reserved.
